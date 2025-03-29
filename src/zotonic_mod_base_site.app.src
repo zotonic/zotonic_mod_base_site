@@ -1,0 +1,10 @@
+{application, zotonic_mod_base_site, [
+    {description, "Example basic site (from Zotonic 0.x)"},
+    {vsn, "git"},
+    {registered, []},
+    {applications, [kernel, stdlib, zotonic_core]},
+    {env, []},
+    {modules, []},
+    {maintainers, []}
+]}.
+
